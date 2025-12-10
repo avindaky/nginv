@@ -167,8 +167,8 @@ nginv extracts a short name from `server_name` for display:
 
 | server_name | Displayed as |
 |-------------|--------------|
-| `api.tangram.ninja` | tangram |
-| `api.blockpuzzleadventure.com` | blockpuzzleadventure |
+| `api.tangram.com` | tangram |
+| `api.blocks.com` | blocks |
 | `www.example.com` | example |
 | `myapp.io` | myapp |
 
